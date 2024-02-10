@@ -25,7 +25,6 @@ print-testcase = ["wow_world_base/print-testcase"]
 workspace = true
 
 [dependencies.wow_srp]
-version = "0.6.0"
 default-features = false
 optional = true
 git = "https://github.com/gtker/wow_srp.git"
